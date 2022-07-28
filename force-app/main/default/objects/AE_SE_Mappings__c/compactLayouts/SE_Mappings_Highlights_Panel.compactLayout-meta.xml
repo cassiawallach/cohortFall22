@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompactLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SE_Mappings_Highlights_Panel</fullName>
+    <fields>Name</fields>
+    <fields>User__c</fields>
+    <fields>RecordTypeId</fields>
+    <fields>Backup_SE__c</fields>
+    <label>SE Mappings Highlights Panel</label>
+</CompactLayout>

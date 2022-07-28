@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Sub-Vertical --></label>
+    <name>Sub_Vertical__c</name>
+    <picklistValues>
+        <masterLabel>ANZ</masterLabel>
+        <translation><!-- ANZ --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>ClickDeploy, Non-AOV</masterLabel>
+        <translation><!-- ClickDeploy, Non-AOV --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Copado Robotic Testing</masterLabel>
+        <translation><!-- Copado Robotic Testing --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>France, Belguim, Spain, Switzerland (FR)</masterLabel>
+        <translation><!-- France, Belguim, Spain, Switzerland (FR) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Germany, Switzerland (DE), Netherlands</masterLabel>
+        <translation><!-- Germany, Switzerland (DE), Netherlands --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Government and Public Sector</masterLabel>
+        <translation><!-- Government and Public Sector --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>High Tech</masterLabel>
+        <translation><!-- High Tech --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>High Tech Strategic</masterLabel>
+        <translation><!-- High Tech Strategic --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Insurance</masterLabel>
+        <translation><!-- Insurance --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Italy</masterLabel>
+        <translation><!-- Italy --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>MFG and Energy</masterLabel>
+        <translation><!-- MFG and Energy --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Media+Com+PS+EDU  / CG / Cons+Real Est</masterLabel>
+        <translation><!-- Media+Com+PS+EDU  / CG / Cons+Real Est --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Payer/Provider</masterLabel>
+        <translation><!-- Payer/Provider --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Pharma/MedTech</masterLabel>
+        <translation><!-- Pharma/MedTech --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>UK, Sweden, Norway, Denmark &amp; Finland</masterLabel>
+        <translation><!-- UK, Sweden, Norway, Denmark &amp; Finland --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Wealth, Banking, Mortgage &amp; Lending</masterLabel>
+        <translation><!-- Wealth, Banking, Mortgage &amp; Lending --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

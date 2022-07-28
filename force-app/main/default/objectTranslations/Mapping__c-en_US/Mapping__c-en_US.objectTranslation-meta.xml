@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Mapping</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Mappings</value>
+    </caseValues>
+    <layouts>
+        <layout>Mapping Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- vertical details --></label>
+            <section>vertical details</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Start Date must be before the End Date --></errorMessage>
+        <name>End_date_must_be_later_than_start_date</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Essentials &amp; Non-AOV vertical mappings cannot be marked as primary. --></errorMessage>
+        <name>Essentials_Non_AOV_Cannot_be_primary</name>
+    </validationRules>
+</CustomObjectTranslation>

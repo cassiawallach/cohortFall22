@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Essentials_Non_AOV_Cannot_be_primary</fullName>
+    <active>true</active>
+    <errorConditionFormula>AND(
+ISPICKVAL(Vertical__c, &quot;Essentials &amp; Non-AOV&quot;),
+ Primary__c = TRUE
+)</errorConditionFormula>
+    <errorDisplayField>Primary__c</errorDisplayField>
+    <errorMessage>Essentials &amp; Non-AOV vertical mappings cannot be marked as primary.</errorMessage>
+</ValidationRule>

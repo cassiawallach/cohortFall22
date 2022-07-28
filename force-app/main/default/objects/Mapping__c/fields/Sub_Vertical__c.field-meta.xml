@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Sub_Vertical__c</fullName>
+    <externalId>false</externalId>
+    <label>Sub-Vertical</label>
+    <required>true</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>true</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <controllingField>Vertical__c</controllingField>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Copado Robotic Testing</fullName>
+                <default>false</default>
+                <label>Copado Robotic Testing</label>
+            </value>
+            <value>
+                <fullName>ClickDeploy, Non-AOV</fullName>
+                <default>false</default>
+                <label>ClickDeploy, Non-AOV</label>
+            </value>
+            <value>
+                <fullName>High Tech</fullName>
+                <default>false</default>
+                <label>High Tech</label>
+            </value>
+            <value>
+                <fullName>High Tech Strategic</fullName>
+                <default>false</default>
+                <label>High Tech Strategic</label>
+            </value>
+            <value>
+                <fullName>Media+Com+PS+EDU  / CG / Cons+Real Est</fullName>
+                <default>false</default>
+                <label>Media+Com+PS+EDU  / CG / Cons+Real Est</label>
+            </value>
+            <value>
+                <fullName>Pharma/MedTech</fullName>
+                <default>false</default>
+                <label>Pharma/MedTech</label>
+            </value>
+            <value>
+                <fullName>Payer/Provider</fullName>
+                <default>false</default>
+                <label>Payer/Provider</label>
+            </value>
+            <value>
+                <fullName>Government and Public Sector</fullName>
+                <default>false</default>
+                <label>Government and Public Sector</label>
+            </value>
+            <value>
+                <fullName>Insurance</fullName>
+                <default>false</default>
+                <label>Insurance</label>
+            </value>
+            <value>
+                <fullName>Wealth, Banking, Mortgage &amp; Lending</fullName>
+                <default>false</default>
+                <label>Wealth, Banking, Mortgage &amp; Lending</label>
+            </value>
+            <value>
+                <fullName>ANZ</fullName>
+                <default>false</default>
+                <label>ANZ</label>
+            </value>
+            <value>
+                <fullName>UK, Sweden, Norway, Denmark &amp; Finland</fullName>
+                <default>false</default>
+                <label>UK, Sweden, Norway, Denmark &amp; Finland</label>
+            </value>
+            <value>
+                <fullName>France, Belguim, Spain, Switzerland (FR)</fullName>
+                <default>false</default>
+                <label>France, Belguim, Spain, Switzerland (FR)</label>
+            </value>
+            <value>
+                <fullName>Germany, Switzerland (DE), Netherlands</fullName>
+                <default>false</default>
+                <label>Germany, Switzerland (DE), Netherlands</label>
+            </value>
+            <value>
+                <fullName>MFG and Energy</fullName>
+                <default>false</default>
+                <label>MFG and Energy</label>
+            </value>
+            <value>
+                <fullName>Italy</fullName>
+                <default>false</default>
+                <label>Italy</label>
+            </value>
+        </valueSetDefinition>
+        <valueSettings>
+            <controllingFieldValue>South Europe</controllingFieldValue>
+            <valueName>France, Belguim, Spain, Switzerland (FR)</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Central Europe</controllingFieldValue>
+            <valueName>Germany, Switzerland (DE), Netherlands</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Italy</controllingFieldValue>
+            <valueName>Italy</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>EMEA CRT</controllingFieldValue>
+            <controllingFieldValue>US CRT</controllingFieldValue>
+            <valueName>Copado Robotic Testing</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Essentials &amp; Non-AOV</controllingFieldValue>
+            <valueName>ClickDeploy, Non-AOV</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>High Tech</controllingFieldValue>
+            <valueName>High Tech</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>High Tech</controllingFieldValue>
+            <valueName>High Tech Strategic</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Core</controllingFieldValue>
+            <valueName>Media+Com+PS+EDU  / CG / Cons+Real Est</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>MFG and Energy</controllingFieldValue>
+            <valueName>MFG and Energy</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>HLS</controllingFieldValue>
+            <valueName>Pharma/MedTech</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>HLS</controllingFieldValue>
+            <valueName>Payer/Provider</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Government</controllingFieldValue>
+            <valueName>Government and Public Sector</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>FINS</controllingFieldValue>
+            <valueName>Insurance</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>FINS</controllingFieldValue>
+            <valueName>Wealth, Banking, Mortgage &amp; Lending</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>ANZ</controllingFieldValue>
+            <valueName>ANZ</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>UK &amp; North Europe</controllingFieldValue>
+            <valueName>UK, Sweden, Norway, Denmark &amp; Finland</valueName>
+        </valueSettings>
+    </valueSet>
+</CustomField>

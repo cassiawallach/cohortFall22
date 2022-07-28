@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SE_Mappings</fullName>
+    <active>true</active>
+    <compactLayoutAssignment>SE_Mappings_Highlights_Panel</compactLayoutAssignment>
+    <description>All AEs that are mapped to one particular SE</description>
+    <label>SE Mappings</label>
+</RecordType>
